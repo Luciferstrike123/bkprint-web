@@ -75,3 +75,4 @@ BKPrint maintains several critical documents and diagrams that are stored within
   - In **Quản lý hệ thống - Máy in** section, click **Thêm máy in** and fill in the blank to add a new printer and/ or click on the current printers' status to change their status.
   - In the **Tùy chỉnh** section, click **Cập nhật** to change the number of pages given to each student and/ or click on the file types' status to change the permission of each file type.
   - In the **Báo cáo** section, click **Xem kho lưu trũ báo cáo** to view or download the reports that are automatically generated.
+# bkprint-web
