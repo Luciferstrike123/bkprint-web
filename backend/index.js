@@ -21,10 +21,7 @@ console.log("Second Step");
 console.log("Third Step");
 
 mongoose
-  .connect(mongoDBURL, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  })
+  .connect(mongoDBURL)
   .then(() => console.log("MongoDB is  connected successfully"))
   .catch((err) => console.error(err));
 

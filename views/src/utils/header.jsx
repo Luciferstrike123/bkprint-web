@@ -5,6 +5,8 @@ import { useNavigate } from "react-router-dom";
 import "./header.css";
 import { useCookies } from "react-cookie";
 import { useEffect, useState } from "react";
+import axios from "axios"
+
 const Header = () => {
   const [cookies, removeCookie] = useCookies([]);
   const navigate = useNavigate();
